@@ -1,0 +1,11 @@
+.rounded {
+  border-top: 2px solid #269880;
+  width: 70%;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.divider{
+  padding-bottom: 50px;
+  background-color: #f7f7f7;
+}
